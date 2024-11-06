@@ -1,0 +1,14 @@
+{
+  "name": "nome-do-seu-projeto",
+  "version": "1.0.0",
+  "description": "Descrição do projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Lucas Bastos",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
